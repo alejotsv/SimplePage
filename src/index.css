@@ -45,7 +45,7 @@ body {
   font-size: 130%;
 }
 
-.body-container > ul > li::before {
+.body-container > ul > li::marker {
   content: "•";
   padding: 10px 0;  
   color: #6bd7fc;
